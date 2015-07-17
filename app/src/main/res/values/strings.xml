@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CotAgro</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="botao1">Colhedora</string>
+    <string name="botao2">Componentes</string>
+    <string name="botao3">Fenação</string>
+    <string name="botao4">Irrigação</string>
+    <string name="botao5">Pulverização</string>
+    <string name="botao6">Silagem</string>
+    <string name="botao7">Transporte</string>
+    <string name="botao8">Preparo de Solo</string>
+    <string name="botao9">Pré-processamento</string>
+    <string name="botao10">Semeadura/Adubação</string>
+    <string name="botao11">Sistematicação Solo</string>
+    <string name="botao12">Trator</string>
+    <string name="botao13">Trator Esteira</string>
+    <string name="botao14">Outros</string>
+    <string name="textView1">Menu</string>
+    <string name="title_activity_main_activity_filho">CotAgro</string>
+
+</resources>
